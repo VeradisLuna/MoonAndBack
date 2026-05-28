@@ -1,5 +1,5 @@
 :root {
-    --bg: #fadafa;
+    --bg: indigo;
     --card: #fff;
     --text: #111;
     --muted: #666;
@@ -20,9 +20,9 @@ body {
     max-width: 700px;
     margin: 20px 20px;
     padding: 16px;
-    background: white;
+    background: #fff;
     border-radius: 20px;
-    box-shadow: 10px 10px #66666644;
+    box-shadow: 10px 10px #ffff00aa;
 }
 
 h1 {
